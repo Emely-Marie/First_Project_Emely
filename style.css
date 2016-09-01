@@ -1,0 +1,13 @@
+@import 'https://fonts.googleapis.com/css?family=Gochi+Hand|Grand+Hotel';
+
+h2{
+  font-family: Grand Hotel;
+  font-size: 45px;
+  color: #900C3F;
+}
+
+p{
+  font-family: Gochi Hand;
+  color: #FF5733;
+  font-size: 20px;
+}
