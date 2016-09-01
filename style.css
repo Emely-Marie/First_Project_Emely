@@ -1,8 +1,8 @@
-@import 'https://fonts.googleapis.com/css?family=Gochi+Hand|Grand+Hotel';
+@import 'https://fonts.googleapis.com/css?family=Gochi+Hand|Grand+Hotel|Pacifico';
 
 h2{
-  font-family: Grand Hotel;
-  font-size: 45px;
+  font-family: Pacifico;
+  font-size: 35px;
   color: #900C3F;
 }
 
@@ -10,4 +10,16 @@ p{
   font-family: Gochi Hand;
   color: #FF5733;
   font-size: 20px;
+}
+
+div{
+  background-color: #DAF7A6;
+  border: dotted #50D3BF 3px;
+  padding: 25px;
+  margin: 25px;
+}
+
+img{
+  display: inline;
+  height: 400px;
 }
