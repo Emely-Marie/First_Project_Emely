@@ -1,15 +1,17 @@
-@import 'https://fonts.googleapis.com/css?family=Gochi+Hand|Grand+Hotel|Pacifico';
+@import 'https://fonts.googleapis.com/css?family=Gochi+Hand|Grand+Hotel|Pacifico|Sigmar+One';
 
 h2{
   font-family: Pacifico;
   font-size: 35px;
   color: #900C3F;
+  text-align: center;
 }
 
 p{
   font-family: Gochi Hand;
   color: #FF5733;
   font-size: 20px;
+  text-align: center;
 }
 
 div{
@@ -17,9 +19,15 @@ div{
   border: dotted #50D3BF 3px;
   padding: 25px;
   margin: 25px;
+  text-align: center;
 }
 
 img{
   display: inline;
   height: 400px;
+  text-align: center;
+}
+
+body{
+  background-color: #E1F0E7;
 }
