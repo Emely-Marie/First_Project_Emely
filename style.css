@@ -5,6 +5,8 @@ h2{
   font-size: 35px;
   color: #900C3F;
   text-align: center;
+  background-color: #DAF7A6;
+  border: dotted #50D3BF 3px;
 }
 
 p{
@@ -29,5 +31,5 @@ img{
 }
 
 body{
-  background-color: #E1F0E7;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg);
 }
