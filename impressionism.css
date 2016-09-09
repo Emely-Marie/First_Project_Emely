@@ -1,0 +1,41 @@
+@import 'https://fonts.googleapis.com/css?family=Gochi+Hand|Grand+Hotel|Pacifico|Sigmar+One|Monoton|Unkepmt';
+
+h2{
+  font-family: Monoton;
+  font-size: 40px;
+  color: #6451C4;
+  text-align: center;
+  background-color: #DAF7A6;
+  border: dotted #DA2510 3px;
+}
+
+p{
+  font-family: Gochi Hand;
+  color: #3CBB16;
+  font-size: 25px;
+  text-align: center;
+}
+
+div{
+  background-color: #DAF7A6;
+  border: dotted #DA2510 3px;
+  padding: 25px;
+  margin: 25px;
+  text-align: center;
+}
+
+img{
+  display: inline;
+  height: 400px;
+  text-align: center;
+}
+
+li{
+  color: maroon;
+  font-size: 25px;
+  font-family: Gochi Hand;
+}
+
+body{
+  background-image: url();
+}
