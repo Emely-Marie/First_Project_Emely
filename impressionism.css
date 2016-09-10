@@ -1,23 +1,23 @@
-@import 'https://fonts.googleapis.com/css?family=Gochi+Hand|Grand+Hotel|Pacifico|Sigmar+One|Monoton|Unkepmt';
+@import 'https://fonts.googleapis.com/css?family=Gochi+Hand|Grand+Hotel|Pacifico|Sigmar+One|Monoton|Unkepmt|Sofia|Patrick+Hand+SC|Megrim|Lily+Script+One';
 
 h2{
-  font-family: Monoton;
+  font-family: Sofia;
   font-size: 40px;
-  color: #6451C4;
+  color: #3CCF8C;
   text-align: center;
-  background-color: #DAF7A6;
-  border: dotted #DA2510 3px;
+  background-color: #FFF5D8;
+  border: dotted #66DBFA 3px;
 }
 
 p{
   font-family: Gochi Hand;
-  color: #3CBB16;
+  color: #DFD800;
   font-size: 25px;
   text-align: center;
 }
 
 div{
-  background-color: #DAF7A6;
+  background-color: #FFF5D8;
   border: dotted #DA2510 3px;
   padding: 25px;
   margin: 25px;
@@ -37,5 +37,5 @@ li{
 }
 
 body{
-  background-image: url();
+  background-image: url(http://arts-movement.weebly.com/uploads/1/8/6/3/18630116/810221_orig.jpg);
 }
