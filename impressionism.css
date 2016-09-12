@@ -5,19 +5,19 @@ h2{
   font-size: 40px;
   color: #3CCF8C;
   text-align: center;
-  background-color: #FFF5D8;
+  background-color: #F5E1ED;
   border: dotted #66DBFA 3px;
 }
 
 p{
   font-family: Gochi Hand;
-  color: #DFD800;
+  color: #F0662E;
   font-size: 25px;
   text-align: center;
 }
 
 div{
-  background-color: #FFF5D8;
+  background-color: #F5E1ED;
   border: dotted #DA2510 3px;
   padding: 25px;
   margin: 25px;
