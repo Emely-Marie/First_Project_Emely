@@ -6,7 +6,8 @@ h2 {
   color: #900C3F;
   text-align: center;
   background-color: #DAF7A6;
-  border: dotted #3E135B 3px;
+  border: solid #3E135B 3px;
+  margin: 25px;
 }
 
 p {
@@ -19,30 +20,45 @@ p {
 #first_block {
   background-color: #DAF7A6;
   width: 75%;
+  border: solid #3E135B 3px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 #second_block {
   background-color: #DAF7A6;
-  border: dotted #3E135B 3px;
   width: 75%;
   margin-left: auto;
   text-align: right;
+  border: solid #3E135B 3px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 img {
-  display: inline;
   height: 400px;
   text-align: center;
+  margin-left: 150px;
+  border: solid #3E135B 3px;
 }
 
 body {
+  margin: 0px;
   background-size: 1200px 700px;
   background-image: url(http://hobbylesson.com/wp-content/uploads/2015/03/Easy-Acrylic-Painting-Ideas-13.jpg);
 }
 
 a {
-  font-family: Gochi Hand;
-  color: #FF5733;
+  font-family: Sofia;
+  color: #0E224B;
   font-size: 25px;
-  text-align: center;
+  text-align: left;
+}
+
+#last_block {
+    background-color: #DAF7A6;
+    margin: 10px;
+    border: solid #3E135B 3px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
