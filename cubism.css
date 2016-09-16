@@ -39,3 +39,23 @@ li{
 body{
   background-image: url(http://www.metmuseum.org/toah/images/h5/h5_1999.363.63.jpg);
 }
+
+#nav_block_one {
+  background-color: #CBFFEE;
+  width: 80%;
+  border: solid #3E135B 3px;
+  text-align: center;
+  margin-left: 360px;
+  display: inline;
+  padding: 10px;
+}
+
+#nav_block {
+  background-color: #CBFFEE;
+  width: 80%;
+  border: solid #3E135B 3px;
+  text-align: center;
+  margin: 10px;
+  display: inline;
+  padding: 10px;
+}
