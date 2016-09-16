@@ -40,22 +40,25 @@ body{
   background-image: url(http://arts-movement.weebly.com/uploads/1/8/6/3/18630116/810221_orig.jpg);
 }
 
-#nav_block_one {
-  background-color: #CBFFEE;
-  width: 80%;
-  border: solid #3E135B 3px;
-  text-align: center;
-  margin-left: 360px;
-  display: inline;
-  padding: 10px;
+a {
+  font-family: Sofia;
+  color: #0E224B;
 }
 
-#nav_block {
-  background-color: #CBFFEE;
-  width: 80%;
+#nav_block_one {
+  background-color: #D8FFF2;
+  width: 25%;
   border: solid #3E135B 3px;
   text-align: center;
   margin: 10px;
-  display: inline;
   padding: 10px;
+}
+
+#block_nav {
+  background-color: #D8FFF2;
+  margin: 10px;
+  padding: 10px;
+  border: solid #3E135B 3px;
+  width: 25%;
+  text-align: center;
 }
